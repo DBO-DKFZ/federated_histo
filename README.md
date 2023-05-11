@@ -1,12 +1,12 @@
 # 1) Download and install Python version 3.7
 https://www.python.org/downloads/ 
 
-# 2) Change into the <data_misc> folder and install all required packages with the following line:
+# 2) Change into the data_misc directory and install all required packages with the following line:
 ```
 pip install -r requirements.txt
 ```
 
-# 3) Change into the <scripts> folder and execute following comands to train
+# 3) Change into the scripts directory and execute following comands to train
 
 ### Federated Learning
   ```
